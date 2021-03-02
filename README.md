@@ -1,1 +1,1 @@
-# sql-hw
+For this project, I needed to analyze an employee database. The database consisted of employees of the corporation from the 1980s and 1990s. To do this, I used SQLAlchemy, PostgresSQL, and Pandas. I created an engine to connect to the PostgresSQL database with SQLAlchemy. Once I established the connection, I imported the relevant tables. Those tables are for employees, departments, salaries, department manager, and titles. Once I made the relevant calculations, I used Matplotlib to generate graphs. 
